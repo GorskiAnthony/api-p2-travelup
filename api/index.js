@@ -1,8 +1,9 @@
 const express = require("express");
 const cors = require("cors");
-const app = express();
 const bodyParser = require("body-parser");
 const Datas = require("./datas.json");
+
+const app = express();
 
 const corsOptions = {
 	origin: ["*"],
@@ -10,6 +11,7 @@ const corsOptions = {
 };
 
 app.use(cors(corsOptions));
+
 app.use(
 	bodyParser.urlencoded({
 		extended: true,
@@ -38,7 +40,15 @@ app.get("/countries/:id([0-9]+)", (req, res) => {
 		return res.send({ message: "Erreur technique" });
 	}
 
-	return res.send(Datas?.filter((data) => data.id === id));
+	const country = Object.values(Datas).find(
+		(country) => country.number === id
+	);
+
+	if (country == null) {
+		res.status(404).json({ message: "Country not found" });
+	} else {
+		res.json(country);
+	}
 });
 
 app.listen(3000, () => console.log(`🚀 Server ready at: 3000 ⭐️`));
