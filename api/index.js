@@ -5,12 +5,7 @@ const Datas = require("./datas.json");
 
 const app = express();
 
-const corsOptions = {
-	origin: ["*"],
-	optionsSuccessStatus: 200,
-};
-
-app.use(cors(corsOptions));
+app.use(cors());
 
 app.use(
 	bodyParser.urlencoded({
