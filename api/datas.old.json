@@ -1,5 +1,5 @@
 {
-	"tanzanie": {
+	"Tanzanie": {
 		"name": "Tanzanie",
 		"id": "TZ",
 		"number": 1,
@@ -16,11 +16,9 @@
 			"href": "tanzanie.png",
 			"alt": "Image de la Tanzanie"
 		},
-		"activities": {
-			"type": ["culinaire", "randonnées", "plage"]
-		}
+		"activities": ["culinaire", "randonnées", "plage"]
 	},
-	"islande": {
+	"Islande": {
 		"name": "Islande",
 		"id": "IS",
 		"number": 2,
@@ -37,9 +35,9 @@
 			"href": "islande.png",
 			"alt": "Image de l'Islande"
 		},
-		"activities": { "type": ["randonnées", "détente", "visite"] }
+		"activities": ["randonnées", "détente", "visite"]
 	},
-	"singapour": {
+	"Singapour": {
 		"name": "Singapour",
 		"id": "SG",
 		"number": 3,
@@ -56,9 +54,9 @@
 			"href": "singapour.png",
 			"alt": "Image de Singapour"
 		},
-		"activities": { "type": ["visite", "shopping", "culinaire"] }
+		"activities": ["visite", "shopping", "culinaire"]
 	},
-	"turquie": {
+	"Turquie": {
 		"name": "Turquie",
 		"id": "TR",
 		"number": 4,
@@ -75,9 +73,9 @@
 			"href": "turquie.png",
 			"alt": "Image de la Turquie"
 		},
-		"activities": { "type": ["culinaire", "détente", "shopping", "visite"] }
+		"activities": ["culinaire", "détente", "shopping", "visite"]
 	},
-	"canada": {
+	"Canada": {
 		"name": "Canada",
 		"id": "CA",
 		"number": 5,
@@ -94,9 +92,9 @@
 			"href": "canada.png",
 			"alt": "Image du Canada"
 		},
-		"activities": { "type": ["détente", "randonnées", "visite"] }
+		"activities": ["détente", "randonnées", "visite"]
 	},
-	"nouvelle-zelande": {
+	"Nouvelle-Zelande": {
 		"name": "Nouvelle-Zélande",
 		"id": "NZ",
 		"number": 6,
@@ -113,9 +111,9 @@
 			"href": "nouvelle-zelande.png",
 			"alt": "Image de la Nouvelle-Zélande"
 		},
-		"activities": { "type": ["détente", "randonnées", "visite"] }
+		"activities": ["détente", "randonnées", "visite"]
 	},
-	"suisse": {
+	"Suisse": {
 		"name": "Suisse",
 		"id": "CH",
 		"number": 7,
@@ -132,11 +130,9 @@
 			"href": "suisse.png",
 			"alt": "Image de la Suisse"
 		},
-		"activities": {
-			"type": ["culinaire", "détente", "randonnées", "shopping"]
-		}
+		"activities": ["culinaire", "détente", "randonnées", "shopping"]
 	},
-	"pays-bas": {
+	"Pays-Bas": {
 		"name": "Pays-Bas",
 		"id": "NL",
 		"number": 8,
@@ -153,9 +149,9 @@
 			"href": "pays-bas.png",
 			"alt": "Image des Pays-Bas"
 		},
-		"activities": { "type": ["fête", "randonnées", "shopping"] }
+		"activities": ["fête", "randonnées", "shopping"]
 	},
-	"italie": {
+	"Italie": {
 		"name": "Italie",
 		"id": "IT",
 		"number": 9,
@@ -172,11 +168,9 @@
 			"href": "italie.png",
 			"alt": "Image de l'Italie"
 		},
-		"activities": {
-			"type": ["culinaire", "fête", "randonnées", "shopping", "visite"]
-		}
+		"activities": ["culinaire", "fête", "randonnées", "shopping", "visite"]
 	},
-	"portugal": {
+	"Portugal": {
 		"name": "Portugal",
 		"id": "PT",
 		"number": 10,
@@ -193,18 +187,16 @@
 			"href": "portugal.png",
 			"alt": "Image du Portugal"
 		},
-		"activities": {
-			"type": [
-				"culinaire",
-				"fête",
-				"plage",
-				"randonnées",
-				"shopping",
-				"visite"
-			]
-		}
+		"activities": [
+			"culinaire",
+			"fête",
+			"plage",
+			"randonnées",
+			"shopping",
+			"visite"
+		]
 	},
-	"royaume-uni": {
+	"Royaume-Uni": {
 		"name": "Royaume-Uni",
 		"id": "GB",
 		"number": 11,
@@ -221,9 +213,9 @@
 			"href": "royaume-uni.png",
 			"alt": "Image du Royaume-Uni"
 		},
-		"activities": { "type": ["fête", "randonnées", "shopping", "visite"] }
+		"activities": ["fête", "randonnées", "shopping", "visite"]
 	},
-	"inde": {
+	"Inde": {
 		"name": "Inde",
 		"id": "IN",
 		"number": 12,
@@ -240,11 +232,9 @@
 			"href": "inde.png",
 			"alt": "Image de l'Inde"
 		},
-		"activities": {
-			"type": ["culinaire", "détente", "randonnées", "visite"]
-		}
+		"activities": ["culinaire", "détente", "randonnées", "visite"]
 	},
-	"allemagne": {
+	"Allemagne": {
 		"name": "Allemagne",
 		"id": "DE",
 		"number": 13,
@@ -261,9 +251,9 @@
 			"href": "allemagne.png",
 			"alt": "Image de l'Allemagne"
 		},
-		"activities": { "type": ["culinaire", "fête", "randonnées", "visite"] }
+		"activities": ["culinaire", "fête", "randonnées", "visite"]
 	},
-	"belgique": {
+	"Belgique": {
 		"name": "Belgique",
 		"id": "BE",
 		"number": 14,
@@ -280,11 +270,9 @@
 			"href": "belgique.png",
 			"alt": "Image de la Belgique"
 		},
-		"activities": {
-			"type": ["culinaire", "fête", "randonnées", "visite", "shopping"]
-		}
+		"activities": ["culinaire", "fête", "randonnées", "visite", "shopping"]
 	},
-	"benin": {
+	"Benin": {
 		"name": "Bénin",
 		"id": "BJ",
 		"number": 15,
@@ -301,9 +289,9 @@
 			"href": "benin.png",
 			"alt": "Image du Bénin"
 		},
-		"activities": { "type": ["culinaire", "visite"] }
+		"activities": ["culinaire", "visite"]
 	},
-	"togo": {
+	"Togo": {
 		"name": "Togo",
 		"id": "TG",
 		"number": 16,
@@ -320,9 +308,9 @@
 			"href": "togo.png",
 			"alt": "Image du Togo"
 		},
-		"activities": { "type": ["culinaire", "randonnées", "visite"] }
+		"activities": ["culinaire", "randonnées", "visite"]
 	},
-	"espagne": {
+	"Espagne": {
 		"name": "Espagne",
 		"id": "ES",
 		"number": 17,
@@ -339,18 +327,16 @@
 			"href": "espagne.png",
 			"alt": "Image de l'Espagne"
 		},
-		"activities": {
-			"type": [
-				"culinaire",
-				"fête",
-				"plage",
-				"randonnées",
-				"shopping",
-				"visite"
-			]
-		}
+		"activities": [
+			"culinaire",
+			"fête",
+			"plage",
+			"randonnées",
+			"shopping",
+			"visite"
+		]
 	},
-	"bali": {
+	"Bali": {
 		"name": "Bali",
 		"id": "ID",
 		"number": 18,
@@ -367,9 +353,9 @@
 			"href": "bali.png",
 			"alt": "Image de Bali"
 		},
-		"activities": { "type": ["culinaire", "randonnées", "plage", "visite"] }
+		"activities": ["culinaire", "randonnées", "plage", "visite"]
 	},
-	"japon": {
+	"Japon": {
 		"name": "Japon",
 		"id": "JP",
 		"number": 19,
@@ -386,18 +372,16 @@
 			"href": "japon.png",
 			"alt": "Image du Japon"
 		},
-		"activities": {
-			"type": [
-				"culinaire",
-				"détente",
-				"fête",
-				"randonnées",
-				"shopping",
-				"visite"
-			]
-		}
+		"activities": [
+			"culinaire",
+			"détente",
+			"fête",
+			"randonnées",
+			"shopping",
+			"visite"
+		]
 	},
-	"la-reunion": {
+	"La-reunion": {
 		"name": "La Réunion",
 		"id": "RE",
 		"number": 20,
@@ -414,9 +398,9 @@
 			"href": "la-reunion.png",
 			"alt": "Image de La Réunion"
 		},
-		"activities": { "type": ["culinaire", "plage", "randonnées", "visite"] }
+		"activities": ["culinaire", "plage", "randonnées", "visite"]
 	},
-	"polynesie-francaise": {
+	"Polynesie-Francaise": {
 		"name": "Polynésie Française",
 		"id": "PF",
 		"number": 21,
@@ -433,6 +417,89 @@
 			"href": "polynesie-francaise.png",
 			"alt": "Image de la Polynésie Française"
 		},
-		"activities": { "type": ["culinaire", "plage", "randonnées"] }
+		"activities": ["culinaire", "plage", "randonnées"]
+	},
+	"Russie": {
+		"name": "Russie",
+		"id": "RS",
+		"number": 22,
+		"climat": {
+			"type": ["froid"]
+		},
+		"environnement": {
+			"type": ["montagne", "ville"]
+		},
+		"budget": {
+			"type": ["élevé"]
+		},
+		"image": {
+			"href": "russie.jpg",
+			"alt": "Image de la Russie"
+		},
+		"activities": ["culinaire", "shopping", "randonnées", "visite", "fête"]
+	},
+	"Argentine": {
+		"name": "Argentine",
+		"id": "AR",
+		"number": 23,
+		"climat": {
+			"type": ["froid", "chaud"]
+		},
+		"environnement": {
+			"type": ["montagne", "ville", "plage"]
+		},
+		"budget": {
+			"type": ["élevé"]
+		},
+		"image": {
+			"href": "argentine.jpg",
+			"alt": "Image de l'Argentine"
+		},
+		"activities": [
+			"culinaire",
+			"shopping",
+			"randonnées",
+			"visite",
+			"fête",
+			"détente"
+		]
+	},
+	"Norvège": {
+		"name": "Norvège",
+		"id": "NO",
+		"number": 23,
+		"climat": {
+			"type": ["froid"]
+		},
+		"environnement": {
+			"type": ["montagne", "ville", "plage"]
+		},
+		"budget": {
+			"type": ["élevé"]
+		},
+		"image": {
+			"href": "norvège.jpg",
+			"alt": "Image de la Norvège"
+		},
+		"activities": ["randonnées", "visite", "détente"]
+	},
+	"Irlande": {
+		"name": "Irlande",
+		"id": "IE",
+		"number": 24,
+		"climat": {
+			"type": ["froid"]
+		},
+		"environnement": {
+			"type": ["montagne", "ville", "campagne"]
+		},
+		"budget": {
+			"type": ["moyen"]
+		},
+		"image": {
+			"href": "irlande.jpg",
+			"alt": "Image de l'Irlande"
+		},
+		"activities": ["randonnées", "visite", "détente", "fête"]
 	}
 }

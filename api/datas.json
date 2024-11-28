@@ -1,7 +1,7 @@
 {
 	"Tanzanie": {
 		"name": "Tanzanie",
-		"id": "TZ",
+		"id": "Tanzanie",
 		"number": 1,
 		"climat": {
 			"type": ["chaud"]
@@ -20,7 +20,7 @@
 	},
 	"Islande": {
 		"name": "Islande",
-		"id": "IS",
+		"id": "Islande",
 		"number": 2,
 		"climat": {
 			"type": ["froid"]
@@ -39,7 +39,7 @@
 	},
 	"Singapour": {
 		"name": "Singapour",
-		"id": "SG",
+		"id": "Singapour",
 		"number": 3,
 		"climat": {
 			"type": ["chaud"]
@@ -58,7 +58,7 @@
 	},
 	"Turquie": {
 		"name": "Turquie",
-		"id": "TR",
+		"id": "Turquie",
 		"number": 4,
 		"climat": {
 			"type": ["chaud"]
@@ -77,7 +77,7 @@
 	},
 	"Canada": {
 		"name": "Canada",
-		"id": "CA",
+		"id": "Canada",
 		"number": 5,
 		"climat": {
 			"type": ["froid", "chaud"]
@@ -96,7 +96,7 @@
 	},
 	"Nouvelle-Zelande": {
 		"name": "Nouvelle-Zélande",
-		"id": "NZ",
+		"id": "Nouvelle-Zélande",
 		"number": 6,
 		"climat": {
 			"type": ["tempéré"]
@@ -115,7 +115,7 @@
 	},
 	"Suisse": {
 		"name": "Suisse",
-		"id": "CH",
+		"id": "Suisse",
 		"number": 7,
 		"climat": {
 			"type": ["tempéré"]
@@ -134,7 +134,7 @@
 	},
 	"Pays-Bas": {
 		"name": "Pays-Bas",
-		"id": "NL",
+		"id": "Pays-Bas",
 		"number": 8,
 		"climat": {
 			"type": ["tempéré"]
@@ -153,7 +153,7 @@
 	},
 	"Italie": {
 		"name": "Italie",
-		"id": "IT",
+		"id": "Italie",
 		"number": 9,
 		"climat": {
 			"type": ["tempéré"]
@@ -172,7 +172,7 @@
 	},
 	"Portugal": {
 		"name": "Portugal",
-		"id": "PT",
+		"id": "Portugal",
 		"number": 10,
 		"climat": {
 			"type": ["chaud"]
@@ -198,7 +198,7 @@
 	},
 	"Royaume-Uni": {
 		"name": "Royaume-Uni",
-		"id": "GB",
+		"id": "Royaume-Uni",
 		"number": 11,
 		"climat": {
 			"type": ["froid"]
@@ -217,7 +217,7 @@
 	},
 	"Inde": {
 		"name": "Inde",
-		"id": "IN",
+		"id": "Inde",
 		"number": 12,
 		"climat": {
 			"type": ["chaud"]
@@ -236,7 +236,7 @@
 	},
 	"Allemagne": {
 		"name": "Allemagne",
-		"id": "DE",
+		"id": "Allemagne",
 		"number": 13,
 		"climat": {
 			"type": ["tempéré"]
@@ -255,7 +255,7 @@
 	},
 	"Belgique": {
 		"name": "Belgique",
-		"id": "BE",
+		"id": "Belgique",
 		"number": 14,
 		"climat": {
 			"type": ["tempéré"]
@@ -274,7 +274,7 @@
 	},
 	"Benin": {
 		"name": "Bénin",
-		"id": "BJ",
+		"id": "Bénin",
 		"number": 15,
 		"climat": {
 			"type": ["chaud"]
@@ -293,7 +293,7 @@
 	},
 	"Togo": {
 		"name": "Togo",
-		"id": "TG",
+		"id": "Togo",
 		"number": 16,
 		"climat": {
 			"type": ["chaud"]
@@ -312,7 +312,7 @@
 	},
 	"Espagne": {
 		"name": "Espagne",
-		"id": "ES",
+		"id": "Espagne",
 		"number": 17,
 		"climat": {
 			"type": ["chaud"]
@@ -338,7 +338,7 @@
 	},
 	"Bali": {
 		"name": "Bali",
-		"id": "ID",
+		"id": "Bali",
 		"number": 18,
 		"climat": {
 			"type": ["chaud"]
@@ -357,7 +357,7 @@
 	},
 	"Japon": {
 		"name": "Japon",
-		"id": "JP",
+		"id": "Japon",
 		"number": 19,
 		"climat": {
 			"type": ["tempéré"]
@@ -383,7 +383,7 @@
 	},
 	"La-reunion": {
 		"name": "La Réunion",
-		"id": "RE",
+		"id": "Réunion",
 		"number": 20,
 		"climat": {
 			"type": ["chaud"]
@@ -402,7 +402,7 @@
 	},
 	"Polynesie-Francaise": {
 		"name": "Polynésie Française",
-		"id": "PF",
+		"id": "Polynésie Française",
 		"number": 21,
 		"climat": {
 			"type": ["chaud"]
@@ -421,7 +421,7 @@
 	},
 	"Russie": {
 		"name": "Russie",
-		"id": "RS",
+		"id": "Russie",
 		"number": 22,
 		"climat": {
 			"type": ["froid"]
@@ -440,7 +440,7 @@
 	},
 	"Argentine": {
 		"name": "Argentine",
-		"id": "AR",
+		"id": "Argentine",
 		"number": 23,
 		"climat": {
 			"type": ["froid", "chaud"]
@@ -466,7 +466,7 @@
 	},
 	"Norvège": {
 		"name": "Norvège",
-		"id": "NO",
+		"id": "Norvège",
 		"number": 23,
 		"climat": {
 			"type": ["froid"]
@@ -485,7 +485,7 @@
 	},
 	"Irlande": {
 		"name": "Irlande",
-		"id": "IE",
+		"id": "Irlande",
 		"number": 24,
 		"climat": {
 			"type": ["froid"]
