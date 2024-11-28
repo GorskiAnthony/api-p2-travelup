@@ -16,7 +16,7 @@
 			"href": "tanzanie.png",
 			"alt": "Image de la Tanzanie"
 		},
-		"activities": ["culinaire", "randonnées", "plage"]
+		"activities": { "type": ["culinaire", "randonnées", "plage"] }
 	},
 	"Islande": {
 		"name": "Islande",
@@ -35,7 +35,7 @@
 			"href": "islande.png",
 			"alt": "Image de l'Islande"
 		},
-		"activities": ["randonnées", "détente", "visite"]
+		"activities": { "type": ["randonnées", "détente", "visite"] }
 	},
 	"Singapour": {
 		"name": "Singapour",
@@ -54,7 +54,7 @@
 			"href": "singapour.png",
 			"alt": "Image de Singapour"
 		},
-		"activities": ["visite", "shopping", "culinaire"]
+		"activities": { "type": ["visite", "shopping", "culinaire"] }
 	},
 	"Turquie": {
 		"name": "Turquie",
@@ -73,7 +73,7 @@
 			"href": "turquie.png",
 			"alt": "Image de la Turquie"
 		},
-		"activities": ["culinaire", "détente", "shopping", "visite"]
+		"activities": { "type": ["culinaire", "détente", "shopping", "visite"] }
 	},
 	"Canada": {
 		"name": "Canada",
@@ -92,7 +92,7 @@
 			"href": "canada.png",
 			"alt": "Image du Canada"
 		},
-		"activities": ["détente", "randonnées", "visite"]
+		"activities": { "type": ["détente", "randonnées", "visite"] }
 	},
 	"Nouvelle-Zelande": {
 		"name": "Nouvelle-Zélande",
@@ -111,7 +111,7 @@
 			"href": "nouvelle-zelande.png",
 			"alt": "Image de la Nouvelle-Zélande"
 		},
-		"activities": ["détente", "randonnées", "visite"]
+		"activities": { "type": ["détente", "randonnées", "visite"] }
 	},
 	"Suisse": {
 		"name": "Suisse",
@@ -130,7 +130,9 @@
 			"href": "suisse.png",
 			"alt": "Image de la Suisse"
 		},
-		"activities": ["culinaire", "détente", "randonnées", "shopping"]
+		"activities": {
+			"type": ["culinaire", "détente", "randonnées", "shopping"]
+		}
 	},
 	"Pays-Bas": {
 		"name": "Pays-Bas",
@@ -149,7 +151,7 @@
 			"href": "pays-bas.png",
 			"alt": "Image des Pays-Bas"
 		},
-		"activities": ["fête", "randonnées", "shopping"]
+		"activities": { "type": ["fête", "randonnées", "shopping"] }
 	},
 	"Italie": {
 		"name": "Italie",
@@ -168,7 +170,9 @@
 			"href": "italie.png",
 			"alt": "Image de l'Italie"
 		},
-		"activities": ["culinaire", "fête", "randonnées", "shopping", "visite"]
+		"activities": {
+			"type": ["culinaire", "fête", "randonnées", "shopping", "visite"]
+		}
 	},
 	"Portugal": {
 		"name": "Portugal",
@@ -187,14 +191,16 @@
 			"href": "portugal.png",
 			"alt": "Image du Portugal"
 		},
-		"activities": [
-			"culinaire",
-			"fête",
-			"plage",
-			"randonnées",
-			"shopping",
-			"visite"
-		]
+		"activities": {
+			"type": [
+				"culinaire",
+				"fête",
+				"plage",
+				"randonnées",
+				"shopping",
+				"visite"
+			]
+		}
 	},
 	"Royaume-Uni": {
 		"name": "Royaume-Uni",
@@ -213,7 +219,7 @@
 			"href": "royaume-uni.png",
 			"alt": "Image du Royaume-Uni"
 		},
-		"activities": ["fête", "randonnées", "shopping", "visite"]
+		"activities": { "type": ["fête", "randonnées", "shopping", "visite"] }
 	},
 	"Inde": {
 		"name": "Inde",
@@ -232,7 +238,9 @@
 			"href": "inde.png",
 			"alt": "Image de l'Inde"
 		},
-		"activities": ["culinaire", "détente", "randonnées", "visite"]
+		"activities": {
+			"type": ["culinaire", "détente", "randonnées", "visite"]
+		}
 	},
 	"Allemagne": {
 		"name": "Allemagne",
@@ -251,7 +259,7 @@
 			"href": "allemagne.png",
 			"alt": "Image de l'Allemagne"
 		},
-		"activities": ["culinaire", "fête", "randonnées", "visite"]
+		"activities": { "type": ["culinaire", "fête", "randonnées", "visite"] }
 	},
 	"Belgique": {
 		"name": "Belgique",
@@ -270,7 +278,9 @@
 			"href": "belgique.png",
 			"alt": "Image de la Belgique"
 		},
-		"activities": ["culinaire", "fête", "randonnées", "visite", "shopping"]
+		"activities": {
+			"type": ["culinaire", "fête", "randonnées", "visite", "shopping"]
+		}
 	},
 	"Benin": {
 		"name": "Bénin",
@@ -289,7 +299,7 @@
 			"href": "benin.png",
 			"alt": "Image du Bénin"
 		},
-		"activities": ["culinaire", "visite"]
+		"activities": { "type": ["culinaire", "visite"] }
 	},
 	"Togo": {
 		"name": "Togo",
@@ -308,7 +318,7 @@
 			"href": "togo.png",
 			"alt": "Image du Togo"
 		},
-		"activities": ["culinaire", "randonnées", "visite"]
+		"activities": { "type": ["culinaire", "randonnées", "visite"] }
 	},
 	"Espagne": {
 		"name": "Espagne",
@@ -327,14 +337,16 @@
 			"href": "espagne.png",
 			"alt": "Image de l'Espagne"
 		},
-		"activities": [
-			"culinaire",
-			"fête",
-			"plage",
-			"randonnées",
-			"shopping",
-			"visite"
-		]
+		"activities": {
+			"type": [
+				"culinaire",
+				"fête",
+				"plage",
+				"randonnées",
+				"shopping",
+				"visite"
+			]
+		}
 	},
 	"Bali": {
 		"name": "Bali",
@@ -353,7 +365,7 @@
 			"href": "bali.png",
 			"alt": "Image de Bali"
 		},
-		"activities": ["culinaire", "randonnées", "plage", "visite"]
+		"activities": { "type": ["culinaire", "randonnées", "plage", "visite"] }
 	},
 	"Japon": {
 		"name": "Japon",
@@ -372,14 +384,16 @@
 			"href": "japon.png",
 			"alt": "Image du Japon"
 		},
-		"activities": [
-			"culinaire",
-			"détente",
-			"fête",
-			"randonnées",
-			"shopping",
-			"visite"
-		]
+		"activities": {
+			"type": [
+				"culinaire",
+				"détente",
+				"fête",
+				"randonnées",
+				"shopping",
+				"visite"
+			]
+		}
 	},
 	"La-reunion": {
 		"name": "La Réunion",
@@ -398,7 +412,7 @@
 			"href": "la-reunion.png",
 			"alt": "Image de La Réunion"
 		},
-		"activities": ["culinaire", "plage", "randonnées", "visite"]
+		"activities": { "type": ["culinaire", "plage", "randonnées", "visite"] }
 	},
 	"Polynesie-Francaise": {
 		"name": "Polynésie Française",
@@ -417,7 +431,7 @@
 			"href": "polynesie-francaise.png",
 			"alt": "Image de la Polynésie Française"
 		},
-		"activities": ["culinaire", "plage", "randonnées"]
+		"activities": { "type": ["culinaire", "plage", "randonnées"] }
 	},
 	"Russie": {
 		"name": "Russie",
@@ -436,7 +450,9 @@
 			"href": "russie.jpg",
 			"alt": "Image de la Russie"
 		},
-		"activities": ["culinaire", "shopping", "randonnées", "visite", "fête"]
+		"activities": {
+			"type": ["culinaire", "shopping", "randonnées", "visite", "fête"]
+		}
 	},
 	"Argentine": {
 		"name": "Argentine",
@@ -455,14 +471,16 @@
 			"href": "argentine.jpg",
 			"alt": "Image de l'Argentine"
 		},
-		"activities": [
-			"culinaire",
-			"shopping",
-			"randonnées",
-			"visite",
-			"fête",
-			"détente"
-		]
+		"activities": {
+			"type": [
+				"culinaire",
+				"shopping",
+				"randonnées",
+				"visite",
+				"fête",
+				"détente"
+			]
+		}
 	},
 	"Norvège": {
 		"name": "Norvège",
@@ -481,7 +499,7 @@
 			"href": "norvège.jpg",
 			"alt": "Image de la Norvège"
 		},
-		"activities": ["randonnées", "visite", "détente"]
+		"activities": { "type": ["randonnées", "visite", "détente"] }
 	},
 	"Irlande": {
 		"name": "Irlande",
@@ -500,6 +518,6 @@
 			"href": "irlande.jpg",
 			"alt": "Image de l'Irlande"
 		},
-		"activities": ["randonnées", "visite", "détente", "fête"]
+		"activities": { "type": ["randonnées", "visite", "détente", "fête"] }
 	}
 }
