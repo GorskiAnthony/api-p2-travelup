@@ -435,7 +435,7 @@
 	},
 	"Russie": {
 		"name": "Russie",
-		"id": "RS",
+		"id": "RU",
 		"number": 22,
 		"climat": {
 			"type": ["froid"]
